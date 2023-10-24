@@ -1,0 +1,8 @@
+prefix=/home/action/test_ws1/devel
+
+Name: reprojection
+Description: Description of reprojection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -std=c++11 -O3 -DNDEBUG  -shared -Wl,-soname,libbal_common.so -o /home/action/test_ws1/devel/lib/libbal_common.so CMakeFiles/bal_common.dir/src/common.cpp.o 

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/action/test_ws1/install/setup.sh

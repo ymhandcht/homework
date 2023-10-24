@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/action/test_ws1/src/reprojection/src/SnavelyReprojectionError.h
+iostream
+-
+ceres/ceres.h
+/home/action/test_ws1/src/reprojection/src/ceres/ceres.h
+rotation.h
+/home/action/test_ws1/src/reprojection/src/rotation.h
+
+/home/action/test_ws1/src/reprojection/src/bundle_adjustment_ceres.cpp
+iostream
+-
+ceres/ceres.h
+-
+common.h
+/home/action/test_ws1/src/reprojection/src/common.h
+SnavelyReprojectionError.h
+/home/action/test_ws1/src/reprojection/src/SnavelyReprojectionError.h
+
+/home/action/test_ws1/src/reprojection/src/common.h
+
+/home/action/test_ws1/src/reprojection/src/rotation.h
+algorithm
+-
+cmath
+-
+limits
+-
+
